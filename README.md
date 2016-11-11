@@ -1,6 +1,29 @@
 # A_thaliana_epigeneitc_mutants
 
-This repository contains scripts to preprocess bisulfite sequencing datasets of epigenetic mutants in Arabidopsis thaliana. 
+This repository contains scripts to preprocess bisulfite sequencing datasets of WT plants and some epigenetic mutants in Arabidopsis thaliana. 
+
+1. WT replicate 1 (GSM1242401)
+
+2. WT replicate 2 (GSM980986)
+
+3. *met1-3* (GSM981031)
+
+4. *drm12cmt23*/*ddcc* (GSM1242404)
+
+5. *cmt23* (GSM1242402)
+
+6. *suvh4/5/6* (GSM981060)
+
+7. *cmt3* (GSM981003) 
+
+8. *cmt2* (GSM981002)
+
+9.  *suvh4*/*kyp* (GSM981057)
+
+10.  *drm1/2* (GSM981015)
+
+11.  *ibm1* (GSM981026)
+
 
 Systems requirements
 
@@ -19,3 +42,6 @@ $ cd methylation_call
 $ chmod +x *.sh
 
 $ ./preprocess.sh
+
+
+
