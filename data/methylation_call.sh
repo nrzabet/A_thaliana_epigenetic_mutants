@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd methylation_call
+
 #prepare genome
 ./prepare_genome.sh
 
@@ -21,3 +23,5 @@
 
 # methylation call
 ./methylation_call.sh
+
+cd ..

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-mkdir -p genome_referemce
+mkdir -p genome_reference
 
 cd genome_referemce
 
