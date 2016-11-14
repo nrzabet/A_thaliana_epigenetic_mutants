@@ -37,7 +37,7 @@ To run the scripts, you will need to have the following programs installed
 
 4. genomeCoverageBed (http://bedtools.readthedocs.io/en/latest/content/tools/genomecov.html)
 
-To perform the entire preprocessing you need to run preprocess.sh script in methylation_call directory.
+To perform the entire preprocessing you need to run preprocess_data.sh script in data directory.
 
 $ cd data
 
