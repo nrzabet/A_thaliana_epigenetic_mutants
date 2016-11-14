@@ -35,6 +35,8 @@ To run the scripts, you will need to have the following programs installed
 
 3. samtools (http://www.htslib.org/)
 
+4. genomeCoverageBed (http://bedtools.readthedocs.io/en/latest/content/tools/genomecov.html)
+
 To perform the entire preprocessing you need to run preprocess.sh script in methylation_call directory.
 
 $ cd methylation_call
