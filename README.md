@@ -39,11 +39,11 @@ To run the scripts, you will need to have the following programs installed
 
 To perform the entire preprocessing you need to run preprocess.sh script in methylation_call directory.
 
-$ cd methylation_call
+$ cd data
 
 $ chmod +x *.sh
 
-$ ./preprocess.sh
+$ ./preprocess_data.sh
 
 
 
